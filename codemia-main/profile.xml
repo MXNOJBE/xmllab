@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-model href="profile.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<?xml-stylesheet href="profile.xsl" type="text/xsl"?>
+
+<Profile_Details>
+
+    <profile>
+        <name>Debanjan</name>
+        <tagline>Web developer</tagline>
+        <dob>2000-11-10</dob>
+        <codes>10</codes>
+    </profile>
+
+    
+    <profile>
+        <name>Darpan</name>
+        <tagline>Python Developer</tagline>
+        <dob>2000-10-10</dob>
+        <codes>10</codes>
+    </profile>
+
+    
+    <profile>
+        <name>Rjarshi</name>
+        <tagline>Java Developer</tagline>
+        <dob>2001-11-10</dob>
+        <codes>10</codes>
+    </profile>
+
+    
+    <profile>
+        <name>Manoj</name>
+        <tagline>Android Developer</tagline>
+        <dob>2001-11-10</dob>
+        <codes>10</codes>
+    </profile>
+
+</Profile_Details> 
